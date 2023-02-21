@@ -1,0 +1,22 @@
+h1{
+    font-size: 34px;
+    text-align: center;
+    color:brown;
+    padding: 2px;
+}
+.person{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    margin-left:2px; 
+    gap: 20px;
+}
+.one{
+    font-size:20px;
+    min-width: 400px;
+    padding: 20px;
+    background-color: rgb(245, 224, 182);
+   
+  
+   
+}
